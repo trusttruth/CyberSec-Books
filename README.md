@@ -88,6 +88,7 @@
   - 📄 [Penetration testing a Hands\-on introduction to Hacking.pdf](Software%20Exploitation/Penetration%20testing%20a%20Hands-on%20introduction%20to%20Hacking.pdf)
 
 - 📂 **Web Application Hacking**
+  - 📄 [Black Hat GraphQL - Attacking Next Generation APIs.pdf](Web%20Application%20Hacking/Black%20Hat%20GraphQL%20-%20Attacking%20Next%20Generation%20APIs.pdf)
   - 📄 [Burp Suite Essentials.pdf](Web%20Application%20Hacking/Burp%20Suite%20Essentials.pdf)
   - 📄 [Modern Web Penetration Testing 2016.pdf](Web%20Application%20Hacking/Modern%20Web%20Penetration%20Testing%202016.pdf)
   - 📄 [OReilly\-Web\-Application\-Security\-NGINX.pdf](Web%20Application%20Hacking/OReilly-Web-Application-Security-NGINX.pdf)
