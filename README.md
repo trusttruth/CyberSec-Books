@@ -89,11 +89,13 @@
 
 - 📂 **Web Application Hacking**
   - 📄 [Black Hat GraphQL - Attacking Next Generation APIs.pdf](Web%20Application%20Hacking/Black%20Hat%20GraphQL%20-%20Attacking%20Next%20Generation%20APIs.pdf)
+  - 📄 [Bug Bounty Playbook.pdf](Web%20Application%20Hacking/Bug%20Bounty%20Playbook.pdf)
   - 📄 [Burp Suite Essentials.pdf](Web%20Application%20Hacking/Burp%20Suite%20Essentials.pdf)
   - 📄 [Modern Web Penetration Testing 2016.pdf](Web%20Application%20Hacking/Modern%20Web%20Penetration%20Testing%202016.pdf)
   - 📄 [OReilly\-Web\-Application\-Security\-NGINX.pdf](Web%20Application%20Hacking/OReilly-Web-Application-Security-NGINX.pdf)
   - 📄 [Oreilly \- Web Application Security, by Andrew Hoffman.pdf](Web%20Application%20Hacking/Oreilly%20-%20Web%20Application%20Security%2C%20by%20Andrew%20Hoffman.pdf)
   - 📄 [Python Web Penetration Testing Cookbook.pdf](Web%20Application%20Hacking/Python%20Web%20Penetration%20Testing%20Cookbook.pdf)
+  - 📄 [Real-World Bug Hunting - A Field Guide to Web Hacking by Peter Yaworski.pdf](Web%20Application%20Hacking/Real-World%20Bug%20Hunting%20-%20A%20Field%20Guide%20to%20Web%20Hacking%20by%20Peter%20Yaworski.pdf)
   - 📄 [The Tangled Web A Guide to Securing Modern Web Applications.pdf](Web%20Application%20Hacking/The%20Tangled%20Web%20A%20Guide%20to%20Securing%20Modern%20Web%20Applications.pdf)
   - 📄 [The Web Application Hackers Handbook.pdf](Web%20Application%20Hacking/The%20Web%20Application%20Hackers%20Handbook.pdf)
   - 📄 [Web Hacking 101.pdf](Web%20Application%20Hacking/Web%20Hacking%20101.pdf)
